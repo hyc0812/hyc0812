@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... IoT and Ethereum
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Dev Community](https://dev.to/yongchanghe) 
+- 📫 How to reach me: ... [Dev](https://dev.to/yongchanghe) 
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ...
 
