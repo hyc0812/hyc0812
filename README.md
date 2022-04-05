@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyc0812&label=Profile%20views&color=0e75b6&style=flat" alt="hyc0812" /> </p>
 
-<h1 align="center">Hi 👋, I'm Yongchang</h1>
+<h1 align="center">Hi 👋, I'm Yong</h1>
 <h3 align="center">A passionate BlockChain and IoT developer</h3>
 
 
@@ -38,6 +38,6 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyc0812&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yongchang's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyc0812&layout=compact&langs_count=5&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p align ="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakydv9315&" alt="deepakydv9315" /></p>
+<p align ="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyc0812&" alt="hyc0812" /></p>
 
 
