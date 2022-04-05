@@ -15,17 +15,19 @@
 - 👯 I’m looking to collaborate on ... IoT and Ethereum
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Dev](https://dev.to/yongchanghe)  /  [LinkedIn](https://www.linkedin.com/in/yongchang-he-935405135/)  /  [PersonalBlog](http://yonglearner.com)
+- 📫 How to reach me: ... yongchanghe8@gmail.com  /  [PersonalBlog](http://yonglearner.com)
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ...
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://codepen.io/deepakydv9315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="deepakydv9315" height="30" width="40" /></a> -->
+
 <a href="https://dev.to/yongchanghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hyc0812" height="30" width="40" /></a>
-<a href="http://35.182.122.207:8088/blog/index" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hyc0812" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yongchanghe8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hyc0812" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yongchang-he-935405135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hyc0812" height="30" width="40" /></a>
 <a href="https://twitter.com/YongchangHe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syco_coders" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
