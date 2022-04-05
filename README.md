@@ -7,7 +7,7 @@
 <h3 align="center">An IoT learner; BlockChain developer; Interested in Cloud Computing; Love coding...</h3>
 
 
-#### About me 
+#### ABOUT ME
 
 
 - 🔭 I’m currently working on ... IoT Access Control Management and Ethereum Blockchain Development
@@ -20,7 +20,7 @@
 - ⚡ Personal... [BLOG](http://yonglearner.com)
 
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">CONNECT</h3>
 <p align="left">
 
 <a href="https://dev.to/yongchanghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hyc0812" height="30" width="40" /></a>
