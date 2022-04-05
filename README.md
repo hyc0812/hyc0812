@@ -25,7 +25,7 @@
 
 <a href="https://dev.to/yongchanghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hyc0812" height="30" width="40" /></a>
 <a href="https://www.facebook.com/yongchanghe8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hyc0812" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yongchang-he-935405135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hyc0812" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yongchang-he-935405135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hyc0812" height="30" width="40" /></a>
 <a href="https://twitter.com/YongchangHe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syco_coders" height="30" width="40" /></a>
   
 </p>
