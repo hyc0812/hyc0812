@@ -16,8 +16,8 @@
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He / Him
-- 📫 How to reach me: ... yongchanghe8@gmail.com  /  
-- ⚡  Personal [BLOG](http://yonglearner.com)
+- 📫 How to reach me: ... yongchanghe8@gmail.com
+- ⚡ Personal... [BLOG](http://yonglearner.com)
 
 
 <h3 align="left">Connect with me:</h3>
