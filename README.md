@@ -12,12 +12,12 @@
 
 - 🔭 I’m currently working on ... IoT Access Control Management and Ethereum Blockchain Development
 - 🌱 I’m currently learning ... Solidity / Java / Python / JavaScript
-- 👯 I’m looking to collaborate on ... IoT and Ethereum
+- 👯 I’m looking to collaborate on ... Playing with IoT and Ethereum BlockChain
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... yongchanghe8@gmail.com  /  [PersonalBlog](http://yonglearner.com)
 - 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ... yongchanghe8@gmail.com  /  
+- ⚡  Personal [BLOG](http://yonglearner.com)
 
 
 <h3 align="left">Connect with me:</h3>
