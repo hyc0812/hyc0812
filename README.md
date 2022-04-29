@@ -6,14 +6,11 @@
 <h1 align="center">Hi 👋, I'm Yong</h1>
 <h3 align="center">An IoT learner; BlockChain developer; Interested in Cloud Computing; Love coding...</h3>
 
-
-
-
 #### ABOUT ME
 
 
 - 🔭 I’m currently working on ... IoT Access Control Management and Ethereum Blockchain Development
-- 🌱 I’m currently learning ... Solidity / Java / Python / JavaScript / Arduino
+- 🌱 I’m currently learning ... Solidity / Java / Python / JavaScript / Arduino / Cpp
 - 👯 I’m looking to collaborate on ... Playing with IoT and Ethereum BlockChain
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything
