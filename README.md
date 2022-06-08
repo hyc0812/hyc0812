@@ -59,6 +59,9 @@
    <a href="https://solidity.readthedocs.io/" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>
   
+   <a href="https://www.arduino.cc" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="arduino" width="40" height="40"/> </a>
+  
    <a href="https://www.cprogramming.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   
