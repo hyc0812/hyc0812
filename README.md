@@ -62,6 +62,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://trufflesuite.com/tutorial/" target="_blank"> 
+  <img src="https://seeklogo.com/images/G/ganache-logo-9BC4FC62A4-seeklogo.com.png" alt="postman" width="30" height="40"/> </a> 
+    <a href="https://trufflesuite.com/tutorial/" target="_blank"> 
+  <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="postman" width="40" height="40"/> </a> 
   
 </p>
 
