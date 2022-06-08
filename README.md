@@ -68,6 +68,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
    <a href="https://www.arduino.cc" target="_blank"> 
   <img src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" alt="arduino" width="32" height="35"/> </a>  
+    <a href="https://www.raspberrypi.com/" target="_blank"> 
+  <img src="https://elinux.org/images/thumb/c/cb/Raspberry_Pi_Logo.svg/950px-Raspberry_Pi_Logo.svg.png" alt="arduino" width="32" height="35"/> </a>   
 <a href="https://www.bootstrap.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
     <a href="https://code.visualstudio.com/" target="_blank"> 
