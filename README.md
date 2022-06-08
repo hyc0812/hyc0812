@@ -34,7 +34,7 @@
  
    <a href="https://solidity.readthedocs.io/" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>  
-     <a href="https://solidity.readthedocs.io/" target="_blank"> 
+     <a href="https://ethereum.org/en/" target="_blank"> 
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=022" alt="solidity" width="40" height="40"/> </a> 
       <a href="https://trufflesuite.com/tutorial/" target="_blank"> 
   <img src="https://seeklogo.com/images/G/ganache-logo-9BC4FC62A4-seeklogo.com.png" alt="postman" width="30" height="40"/> </a> 
