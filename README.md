@@ -28,7 +28,7 @@
   
   
   
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">LANGUAGES & TOOLS:</h4>
 <p align="left"> 
    <a href="https://solidity.readthedocs.io/" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>   
