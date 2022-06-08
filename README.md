@@ -36,6 +36,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>  
      <a href="https://ethereum.org/en/" target="_blank"> 
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=022" alt="solidity" width="40" height="40"/> </a> 
+    <a href="https://geth.ethereum.org/" target="_blank"> 
+  <img src="https://geth.ethereum.org/static/images/mascot.png" alt="solidity" width="40" height="40"/> </a>
       <a href="https://trufflesuite.com/tutorial/" target="_blank"> 
   <img src="https://seeklogo.com/images/G/ganache-logo-9BC4FC62A4-seeklogo.com.png" alt="postman" width="30" height="40"/> </a> 
     <a href="https://trufflesuite.com/drizzle/" target="_blank"> 
@@ -74,7 +76,9 @@
   <a href="https://www.linux.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+   <a href="https://www.mongodb.com/" target="_blank"> 
+  <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="mongodb" width="50" height="40"/> </a>
   <a href="https://postman.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
