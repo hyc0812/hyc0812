@@ -33,8 +33,16 @@
 
  
    <a href="https://solidity.readthedocs.io/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>  
+     <a href="https://solidity.readthedocs.io/" target="_blank"> 
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=022" alt="solidity" width="40" height="40"/> </a> 
+      <a href="https://trufflesuite.com/tutorial/" target="_blank"> 
+  <img src="https://seeklogo.com/images/G/ganache-logo-9BC4FC62A4-seeklogo.com.png" alt="postman" width="30" height="40"/> </a> 
+    <a href="https://trufflesuite.com/drizzle/" target="_blank"> 
+  <img src="https://seeklogo.com/images/D/drizzle-logo-7D6FE5DB33-seeklogo.com.png" alt="drizzle" width="40" height="40"/> </a> 
+  <a href="https://trufflesuite.com/tutorial/" target="_blank"> 
+  <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://geth.ethereum.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   
     <a href="https://www.java.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" width="40" height="40"/> </a> 
@@ -64,10 +72,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://trufflesuite.com/tutorial/" target="_blank"> 
-  <img src="https://seeklogo.com/images/G/ganache-logo-9BC4FC62A4-seeklogo.com.png" alt="postman" width="30" height="40"/> </a> 
-    <a href="https://trufflesuite.com/tutorial/" target="_blank"> 
-  <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="postman" width="40" height="40"/> </a> 
+
   
 </p>
 
