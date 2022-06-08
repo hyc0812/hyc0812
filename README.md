@@ -42,7 +42,7 @@
   <img src="https://seeklogo.com/images/D/drizzle-logo-7D6FE5DB33-seeklogo.com.png" alt="drizzle" width="40" height="40"/> </a> 
   <a href="https://trufflesuite.com/tutorial/" target="_blank"> 
   <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://geth.ethereum.org/" target="_blank"> 
+  <a href="https://www.programiz.com/c-programming" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   
     <a href="https://www.java.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" width="40" height="40"/> </a> 
