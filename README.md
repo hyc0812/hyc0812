@@ -42,6 +42,11 @@
   <img src="https://seeklogo.com/images/D/drizzle-logo-7D6FE5DB33-seeklogo.com.png" alt="drizzle" width="40" height="40"/> </a> 
   <a href="https://trufflesuite.com/tutorial/" target="_blank"> 
   <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="postman" width="40" height="40"/> </a> 
+   <a href="https://hardhat.org/" target="_blank"> 
+  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="postman" width="40" height="35"/> </a> 
+     <a href="https://metamask.io/" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" alt="postman" width="40" height="35"/> </a> 
+  
   <a href="https://www.programiz.com/c-programming" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   
     <a href="https://www.java.com/" target="_blank">
