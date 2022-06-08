@@ -71,7 +71,7 @@
     <a href="https://code.visualstudio.com/" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a> 
       <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="vscode" width="40" height="40"/> </a> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="vscode" width="37" height="37"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank">
