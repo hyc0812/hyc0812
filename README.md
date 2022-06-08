@@ -48,7 +48,6 @@
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="postman" width="40" height="35"/> </a> 
      <a href="https://metamask.io/" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" alt="postman" width="40" height="35"/> </a> 
-  
   <a href="https://www.programiz.com/c-programming" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   
     <a href="https://www.java.com/" target="_blank">
@@ -71,6 +70,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
     <a href="https://code.visualstudio.com/" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a> 
+      <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank">
