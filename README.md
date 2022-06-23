@@ -16,7 +16,7 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He / Him
 - 📫 How to reach me: ... yongchanghe8@gmail.com
-- ⚡ Personal... [BLOG](https://tealfeed.com/yongchanghe)
+- ⚡ Personal... [BLOG](https://dev.to/yongchanghe)
 
 <h4 align="left">CONNECT</h3>
 <p align="left">
