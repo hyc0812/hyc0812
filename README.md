@@ -9,7 +9,7 @@
 #### ABOUT ME
 
 
-- 🔭 I’m currently working on ... IoT Access Control Management and Ethereum / Hyperledger Blockchain Development
+- 🔭 I’m currently working on ... IoT Access Management and Blockchain Development
 - 🌱 I’m currently learning ... React.js / Solidity / Java / Python / JavaScript / Arduino / Cpp
 - 👯 I’m looking to collaborate on ... Playing with IoT and BlockChain
 - 🤔 I’m looking for help with ... 
