@@ -9,9 +9,9 @@
 #### ABOUT ME
 
 
-- 🔭 I’m currently working on ... IoT Access Management and Blockchain Development
-- 🌱 I’m currently learning ... React.js / Solidity / Java / Python / JavaScript / Arduino / Cpp
-- 📫 How to reach me: ... yongchanghe8@gmail.com
+- 🔭 Working on ... IoT Access Management and Blockchain Development
+- 🌱 Learning ... React.js / Solidity / Java / Python / JavaScript / Arduino / Cpp
+- 📫 Reach me: ... yongchanghe8@gmail.com
 
 <h4 align="left">CONNECT</h3>
 <p align="left">
