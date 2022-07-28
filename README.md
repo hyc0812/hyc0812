@@ -9,7 +9,7 @@
 #### ABOUT ME
 
 
-- 🔭 Working on ... IoT Access Management and Blockchain Development
+- 🔭 Working on ... DT Management, IoT Management and Blockchain Development
 - 🌱 Learning ... React.js / Solidity / Java / Python / JavaScript / Arduino / Cpp
 - 📫 Reach me: ... yongchanghe8@gmail.com
 
