@@ -13,7 +13,7 @@
 - 🌱 Learning ... React.js / Solidity / Java / Python / JavaScript / Arduino / Cpp
 - 📫 Reach me: ... yongchanghe8@gmail.com
 
-[Goerli Testnet faucet](https://goerlifaucet.com/) / [Goerli POW faucet](https://goerli-faucet.pk910.de/) / [Chainlink LINK faucet](https://faucets.chain.link/)
+[Goerli Testnet faucets](https://faucetlink.to/goerli) / [Chainlink LINK faucet](https://faucets.chain.link/)
 
 <h4 align="left">CONNECT</h3>
 <p align="left">
