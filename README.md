@@ -13,7 +13,7 @@
 - 🌱 Learning ... React.js / Solidity / Java / Python / JavaScript / Arduino / Cpp
 - 📫 Reach me: ... yongchanghe8@gmail.com
 
-#### ETHEREUM FAUCETS
+#### ETHEREUM TESTNET FAUCETS
 
 [Goerli Testnet faucets](https://faucetlink.to/goerli) / [Chainlink LINK faucet](https://faucets.chain.link/)
 
