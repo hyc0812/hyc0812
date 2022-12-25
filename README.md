@@ -57,8 +57,8 @@
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=022" alt="solidity" width="40" height="40"/> </a> 
      <a href="https://remix.ethereum.org/" target="_blank"> 
   <img src="https://miro.medium.com/max/840/1*3jj5tQildSIyhl-RO6RLlA.png" alt="solidity" width="40" height="40"/> </a> 
-    <a href="https://geth.ethereum.org/" target="_blank"> 
-  <img src="https://geth.ethereum.org/static/images/mascot.png" alt="solidity" width="40" height="40"/> </a>
+<!--     <a href="https://geth.ethereum.org/" target="_blank"> 
+  <img src="https://geth.ethereum.org/static/images/mascot.png" alt="solidity" width="40" height="40"/> </a> -->
       <a href="https://trufflesuite.com/tutorial/" target="_blank"> 
   <img src="https://seeklogo.com/images/G/ganache-logo-9BC4FC62A4-seeklogo.com.png" alt="postman" width="30" height="40"/> </a> 
     <a href="https://trufflesuite.com/drizzle/" target="_blank"> 
