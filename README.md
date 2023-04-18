@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyc0812&label=Profile%20views&color=0e75b6&style=flat" alt="hyc0812" /> </p>
 
 <h1 align="center">Hi 👋, I'm Yong</h1>
-<h3 align="center">An IoT learner; BlockChain developer; Interested in Cloud; Love React & Angular...</h3>
+<h3 align="center">An IoT and BlockChain learner; a full-stack app developer; Interested in Cloud; Love React & Angular...</h3>
 
 #### ABOUT ME
 
