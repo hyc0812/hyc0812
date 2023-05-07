@@ -3,7 +3,7 @@
 
 [<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gdf774uwjn5e417dp3x7.png">](http://yonglearner.co/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyc0812&label=Profile%20views&color=0e75b6&style=flat" alt="hyc0812" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyc0812&label=Profile%20views&color=0e75b6&style=flat" alt="hyc0812" /> </p> 
 
 <h1 align="center">Hi 👋, I'm Yong</h1>
 <h3 align="center">An IoT and BlockChain learner; a full-stack web developer; Interested in Cloud; Love React & Angular...</h3>
