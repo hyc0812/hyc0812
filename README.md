@@ -26,9 +26,6 @@
 
 [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/22299b4c-dbee-4f4b-b217-8aced76323fa)
 
-<img src="https://www.credly.com/badges/22299b4c-dbee-4f4b-b217-8aced76323fa/public_url" width=400>
-
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73200444" width=150>
 
 <h4 align="left">CONNECT</h3>
 <p align="left">
