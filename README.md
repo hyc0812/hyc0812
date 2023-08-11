@@ -16,9 +16,9 @@
 - 📫 Reach me: ... yongchanghe8@gmail.com
  
   
-#### PORTFOLIO
+<!-- #### PORTFOLIO
 
-[YongLearner](http://yonglearner.co)
+[YongLearner](http://yonglearner.co) -->
 
 #### CERTIFICATES  
 
