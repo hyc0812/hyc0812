@@ -2,7 +2,7 @@
 
 **Cloud & DevOps Instructor · Builder · AWS Certified DevOps Engineer – Professional**
 
-I teach cloud computing and emerging infrastructure technologies at **Saskatchewan Polytechnic**, while building practical cloud-native applications and hands-on labs.
+I teach cloud computing and emerging infrastructure technologies, while building practical cloud-native applications and hands-on labs.
 
 My current interests are **AWS, DevOps, cloud architecture, AI infrastructure, serverless systems, and developer-focused products**. I also hold an **M.Sc. in Computer Science from the University of Saskatchewan**, where my research focused on blockchain-based access and usage control for cloud-based Digital Twins.
 
